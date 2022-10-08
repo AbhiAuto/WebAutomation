@@ -1,0 +1,40 @@
+-------------------------------------------------------------------------------
+Test set: com.test.runners.RunTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 33.567 sec <<< FAILURE!
+Title of your scenario(Title of your feature)  Time elapsed: 1.335 sec  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: The step 'I add four random items to my cart' and 5 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("I add four random items to my cart")
+public void i_add_four_random_items_to_my_cart() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("I view my cart")
+public void i_view_my_cart() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("I find four items listed in my cart")
+public void i_find_four_items_listed_in_my_cart() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("I search for lowest price item")
+public void i_search_for_lowest_price_item() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("I am able to remove the lowest price item from my cart")
+public void i_am_able_to_remove_the_lowest_price_item_from_my_cart() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("I am able to verify three items in my cart")
+public void i_am_able_to_verify_three_items_in_my_cart() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
