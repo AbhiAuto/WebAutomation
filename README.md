@@ -34,3 +34,7 @@ Test Automation framework to automate Web Application
 - │ Keep reports forever: https://reports.cucumber.io/profile                │
 - └──────────────────────────────────────────────────────────────────────────┘
 
+# Sample report
+
+<img width="930" alt="Report ScreenShot" src="https://user-images.githubusercontent.com/26138640/194685681-69120733-ca8b-42dc-a0ac-42aabafcc483.png">
+
